@@ -32,7 +32,7 @@
 #define GL_RGBA 0x1908
 #define GL_UNSIGNED_BYTE 0x1401
 
-#include <IL/il.h>
+#include <il.h>
 
 BundlerMatcher::BundlerMatcher(float matchThreshold, int firstOctave, bool binaryWritingEnabled, bool sequenceMatching, int sequenceMatchingLength)
 {
