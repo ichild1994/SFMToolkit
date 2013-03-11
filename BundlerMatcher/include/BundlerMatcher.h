@@ -27,6 +27,7 @@
 #include <string>
 #include <map>
 #include <fstream>
+#include <cstdlib>
 
 #include "SiftGPU.h"
 
